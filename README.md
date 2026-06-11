@@ -1,9 +1,7 @@
 # World News Monitor
 
 A crisp, popup-free world news dashboard — dark world map with headline markers
-and one fixed side panel. Inspired by [World Monitor](https://www.worldmonitor.app/),
-minus the clutter.
-
+and one fixed side panel. 
 ## Run
 
 ```sh
