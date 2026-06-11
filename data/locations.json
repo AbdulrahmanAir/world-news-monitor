@@ -1,0 +1,1652 @@
+[
+  {
+    "name": "Afghanistan",
+    "lat": 33.9,
+    "lon": 67.7,
+    "aliases": [
+      "Kabul",
+      "Afghan"
+    ]
+  },
+  {
+    "name": "Albania",
+    "lat": 41.2,
+    "lon": 20.2,
+    "aliases": [
+      "Tirana"
+    ]
+  },
+  {
+    "name": "Algeria",
+    "lat": 28.0,
+    "lon": 1.7,
+    "aliases": [
+      "Algiers",
+      "Algerian"
+    ]
+  },
+  {
+    "name": "Angola",
+    "lat": -11.2,
+    "lon": 17.9,
+    "aliases": [
+      "Luanda"
+    ]
+  },
+  {
+    "name": "Argentina",
+    "lat": -38.4,
+    "lon": -63.6,
+    "aliases": [
+      "Buenos Aires",
+      "Argentine"
+    ]
+  },
+  {
+    "name": "Armenia",
+    "lat": 40.1,
+    "lon": 45.0,
+    "aliases": [
+      "Yerevan",
+      "Armenian"
+    ]
+  },
+  {
+    "name": "Australia",
+    "lat": -25.3,
+    "lon": 133.8,
+    "aliases": [
+      "Canberra",
+      "Australian"
+    ]
+  },
+  {
+    "name": "Sydney",
+    "lat": -33.87,
+    "lon": 151.21,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Melbourne",
+    "lat": -37.81,
+    "lon": 144.96,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Austria",
+    "lat": 47.5,
+    "lon": 14.6,
+    "aliases": [
+      "Vienna",
+      "Austrian"
+    ]
+  },
+  {
+    "name": "Azerbaijan",
+    "lat": 40.1,
+    "lon": 47.6,
+    "aliases": [
+      "Baku",
+      "Azerbaijani"
+    ]
+  },
+  {
+    "name": "Bahrain",
+    "lat": 26.0,
+    "lon": 50.6,
+    "aliases": [
+      "Manama",
+      "Bahraini"
+    ]
+  },
+  {
+    "name": "Bangladesh",
+    "lat": 23.7,
+    "lon": 90.4,
+    "aliases": [
+      "Dhaka",
+      "Bangladeshi"
+    ]
+  },
+  {
+    "name": "Belarus",
+    "lat": 53.7,
+    "lon": 27.9,
+    "aliases": [
+      "Minsk",
+      "Belarusian"
+    ]
+  },
+  {
+    "name": "Belgium",
+    "lat": 50.5,
+    "lon": 4.5,
+    "aliases": [
+      "Brussels",
+      "Belgian"
+    ]
+  },
+  {
+    "name": "Bolivia",
+    "lat": -16.3,
+    "lon": -63.6,
+    "aliases": [
+      "La Paz",
+      "Bolivian"
+    ]
+  },
+  {
+    "name": "Bosnia",
+    "lat": 43.9,
+    "lon": 17.7,
+    "aliases": [
+      "Sarajevo",
+      "Bosnian"
+    ]
+  },
+  {
+    "name": "Botswana",
+    "lat": -22.3,
+    "lon": 24.7,
+    "aliases": [
+      "Gaborone"
+    ]
+  },
+  {
+    "name": "Brazil",
+    "lat": -14.2,
+    "lon": -51.9,
+    "aliases": [
+      "Brasilia",
+      "Brazilian"
+    ]
+  },
+  {
+    "name": "Rio de Janeiro",
+    "lat": -22.91,
+    "lon": -43.17,
+    "aliases": [
+      "Rio"
+    ],
+    "city": true
+  },
+  {
+    "name": "Sao Paulo",
+    "lat": -23.55,
+    "lon": -46.63,
+    "aliases": [
+      "São Paulo"
+    ],
+    "city": true
+  },
+  {
+    "name": "Bulgaria",
+    "lat": 42.7,
+    "lon": 25.5,
+    "aliases": [
+      "Sofia",
+      "Bulgarian"
+    ]
+  },
+  {
+    "name": "Burkina Faso",
+    "lat": 12.2,
+    "lon": -1.6,
+    "aliases": [
+      "Ouagadougou"
+    ]
+  },
+  {
+    "name": "Myanmar",
+    "lat": 21.9,
+    "lon": 95.9,
+    "aliases": [
+      "Burma",
+      "Yangon",
+      "Naypyidaw"
+    ]
+  },
+  {
+    "name": "Burundi",
+    "lat": -3.4,
+    "lon": 29.9,
+    "aliases": [
+      "Bujumbura"
+    ]
+  },
+  {
+    "name": "Cambodia",
+    "lat": 12.6,
+    "lon": 104.9,
+    "aliases": [
+      "Phnom Penh",
+      "Cambodian"
+    ]
+  },
+  {
+    "name": "Cameroon",
+    "lat": 7.4,
+    "lon": 12.4,
+    "aliases": [
+      "Yaounde",
+      "Cameroonian"
+    ]
+  },
+  {
+    "name": "Canada",
+    "lat": 56.1,
+    "lon": -106.3,
+    "aliases": [
+      "Ottawa",
+      "Canadian"
+    ]
+  },
+  {
+    "name": "Toronto",
+    "lat": 43.65,
+    "lon": -79.38,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Vancouver",
+    "lat": 49.28,
+    "lon": -123.12,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Montreal",
+    "lat": 45.5,
+    "lon": -73.57,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Chad",
+    "lat": 15.5,
+    "lon": 18.7,
+    "aliases": [
+      "N'Djamena"
+    ]
+  },
+  {
+    "name": "Chile",
+    "lat": -35.7,
+    "lon": -71.5,
+    "aliases": [
+      "Santiago",
+      "Chilean"
+    ]
+  },
+  {
+    "name": "China",
+    "lat": 35.9,
+    "lon": 104.2,
+    "aliases": [
+      "Chinese"
+    ]
+  },
+  {
+    "name": "Beijing",
+    "lat": 39.9,
+    "lon": 116.4,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Shanghai",
+    "lat": 31.23,
+    "lon": 121.47,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Hong Kong",
+    "lat": 22.32,
+    "lon": 114.17,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Colombia",
+    "lat": 4.6,
+    "lon": -74.3,
+    "aliases": [
+      "Bogota",
+      "Bogotá",
+      "Colombian"
+    ]
+  },
+  {
+    "name": "DR Congo",
+    "lat": -4.0,
+    "lon": 21.8,
+    "aliases": [
+      "DRC",
+      "Kinshasa",
+      "Democratic Republic of Congo",
+      "Democratic Republic of the Congo"
+    ]
+  },
+  {
+    "name": "Costa Rica",
+    "lat": 9.7,
+    "lon": -83.8,
+    "aliases": [
+      "San Jose"
+    ]
+  },
+  {
+    "name": "Croatia",
+    "lat": 45.1,
+    "lon": 15.2,
+    "aliases": [
+      "Zagreb",
+      "Croatian"
+    ]
+  },
+  {
+    "name": "Cuba",
+    "lat": 21.5,
+    "lon": -77.8,
+    "aliases": [
+      "Havana",
+      "Cuban"
+    ]
+  },
+  {
+    "name": "Cyprus",
+    "lat": 35.1,
+    "lon": 33.4,
+    "aliases": [
+      "Nicosia",
+      "Cypriot"
+    ]
+  },
+  {
+    "name": "Czech Republic",
+    "lat": 49.8,
+    "lon": 15.5,
+    "aliases": [
+      "Czechia",
+      "Prague",
+      "Czech"
+    ]
+  },
+  {
+    "name": "Denmark",
+    "lat": 56.3,
+    "lon": 9.5,
+    "aliases": [
+      "Copenhagen",
+      "Danish"
+    ]
+  },
+  {
+    "name": "Dominican Republic",
+    "lat": 18.7,
+    "lon": -70.2,
+    "aliases": [
+      "Santo Domingo"
+    ]
+  },
+  {
+    "name": "Ecuador",
+    "lat": -1.8,
+    "lon": -78.2,
+    "aliases": [
+      "Quito",
+      "Ecuadorian"
+    ]
+  },
+  {
+    "name": "Egypt",
+    "lat": 26.8,
+    "lon": 30.8,
+    "aliases": [
+      "Cairo",
+      "Egyptian"
+    ]
+  },
+  {
+    "name": "El Salvador",
+    "lat": 13.8,
+    "lon": -88.9,
+    "aliases": [
+      "Salvadoran"
+    ]
+  },
+  {
+    "name": "Eritrea",
+    "lat": 15.2,
+    "lon": 39.8,
+    "aliases": [
+      "Asmara"
+    ]
+  },
+  {
+    "name": "Estonia",
+    "lat": 58.6,
+    "lon": 25.0,
+    "aliases": [
+      "Tallinn",
+      "Estonian"
+    ]
+  },
+  {
+    "name": "Ethiopia",
+    "lat": 9.1,
+    "lon": 40.5,
+    "aliases": [
+      "Addis Ababa",
+      "Ethiopian"
+    ]
+  },
+  {
+    "name": "Finland",
+    "lat": 61.9,
+    "lon": 25.7,
+    "aliases": [
+      "Helsinki",
+      "Finnish"
+    ]
+  },
+  {
+    "name": "France",
+    "lat": 46.2,
+    "lon": 2.2,
+    "aliases": [
+      "French"
+    ]
+  },
+  {
+    "name": "Paris",
+    "lat": 48.86,
+    "lon": 2.35,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Gabon",
+    "lat": -0.8,
+    "lon": 11.6,
+    "aliases": [
+      "Libreville"
+    ]
+  },
+  {
+    "name": "Georgia",
+    "lat": 42.3,
+    "lon": 43.4,
+    "aliases": [
+      "Tbilisi",
+      "Georgian"
+    ]
+  },
+  {
+    "name": "Germany",
+    "lat": 51.2,
+    "lon": 10.5,
+    "aliases": [
+      "German"
+    ]
+  },
+  {
+    "name": "Berlin",
+    "lat": 52.52,
+    "lon": 13.4,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Munich",
+    "lat": 48.14,
+    "lon": 11.58,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Ghana",
+    "lat": 7.9,
+    "lon": -1.0,
+    "aliases": [
+      "Accra",
+      "Ghanaian"
+    ]
+  },
+  {
+    "name": "Greece",
+    "lat": 39.1,
+    "lon": 21.8,
+    "aliases": [
+      "Athens",
+      "Greek"
+    ]
+  },
+  {
+    "name": "Greenland",
+    "lat": 71.7,
+    "lon": -42.6,
+    "aliases": [
+      "Nuuk"
+    ]
+  },
+  {
+    "name": "Guatemala",
+    "lat": 15.8,
+    "lon": -90.2,
+    "aliases": [
+      "Guatemalan"
+    ]
+  },
+  {
+    "name": "Guinea",
+    "lat": 9.9,
+    "lon": -9.7,
+    "aliases": [
+      "Conakry"
+    ]
+  },
+  {
+    "name": "Haiti",
+    "lat": 19.0,
+    "lon": -72.3,
+    "aliases": [
+      "Port-au-Prince",
+      "Haitian"
+    ]
+  },
+  {
+    "name": "Honduras",
+    "lat": 15.2,
+    "lon": -86.2,
+    "aliases": [
+      "Tegucigalpa",
+      "Honduran"
+    ]
+  },
+  {
+    "name": "Hungary",
+    "lat": 47.2,
+    "lon": 19.5,
+    "aliases": [
+      "Budapest",
+      "Hungarian"
+    ]
+  },
+  {
+    "name": "Iceland",
+    "lat": 64.96,
+    "lon": -19.0,
+    "aliases": [
+      "Reykjavik",
+      "Icelandic"
+    ]
+  },
+  {
+    "name": "India",
+    "lat": 20.6,
+    "lon": 79.0,
+    "aliases": [
+      "Indian"
+    ]
+  },
+  {
+    "name": "New Delhi",
+    "lat": 28.61,
+    "lon": 77.21,
+    "aliases": [
+      "Delhi"
+    ],
+    "city": true
+  },
+  {
+    "name": "Mumbai",
+    "lat": 19.08,
+    "lon": 72.88,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Indonesia",
+    "lat": -0.8,
+    "lon": 113.9,
+    "aliases": [
+      "Jakarta",
+      "Indonesian"
+    ]
+  },
+  {
+    "name": "Iran",
+    "lat": 32.4,
+    "lon": 53.7,
+    "aliases": [
+      "Tehran",
+      "Iranian"
+    ]
+  },
+  {
+    "name": "Iraq",
+    "lat": 33.2,
+    "lon": 43.7,
+    "aliases": [
+      "Baghdad",
+      "Iraqi"
+    ]
+  },
+  {
+    "name": "Ireland",
+    "lat": 53.4,
+    "lon": -8.2,
+    "aliases": [
+      "Dublin",
+      "Irish"
+    ]
+  },
+  {
+    "name": "Israel",
+    "lat": 31.0,
+    "lon": 34.9,
+    "aliases": [
+      "Israeli"
+    ]
+  },
+  {
+    "name": "Jerusalem",
+    "lat": 31.77,
+    "lon": 35.21,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Tel Aviv",
+    "lat": 32.07,
+    "lon": 34.78,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Italy",
+    "lat": 41.9,
+    "lon": 12.6,
+    "aliases": [
+      "Italian"
+    ]
+  },
+  {
+    "name": "Rome",
+    "lat": 41.9,
+    "lon": 12.5,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Milan",
+    "lat": 45.46,
+    "lon": 9.19,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Ivory Coast",
+    "lat": 7.5,
+    "lon": -5.5,
+    "aliases": [
+      "Cote d'Ivoire",
+      "Côte d'Ivoire",
+      "Abidjan"
+    ]
+  },
+  {
+    "name": "Jamaica",
+    "lat": 18.1,
+    "lon": -77.3,
+    "aliases": [
+      "Kingston",
+      "Jamaican"
+    ]
+  },
+  {
+    "name": "Japan",
+    "lat": 36.2,
+    "lon": 138.3,
+    "aliases": [
+      "Japanese"
+    ]
+  },
+  {
+    "name": "Tokyo",
+    "lat": 35.68,
+    "lon": 139.69,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Jordan",
+    "lat": 30.6,
+    "lon": 36.2,
+    "aliases": [
+      "Amman",
+      "Jordanian"
+    ]
+  },
+  {
+    "name": "Kazakhstan",
+    "lat": 48.0,
+    "lon": 66.9,
+    "aliases": [
+      "Astana",
+      "Kazakh"
+    ]
+  },
+  {
+    "name": "Kenya",
+    "lat": -0.02,
+    "lon": 37.9,
+    "aliases": [
+      "Nairobi",
+      "Kenyan"
+    ]
+  },
+  {
+    "name": "Kosovo",
+    "lat": 42.6,
+    "lon": 20.9,
+    "aliases": [
+      "Pristina"
+    ]
+  },
+  {
+    "name": "Kuwait",
+    "lat": 29.3,
+    "lon": 47.5,
+    "aliases": [
+      "Kuwaiti"
+    ]
+  },
+  {
+    "name": "Kyrgyzstan",
+    "lat": 41.2,
+    "lon": 74.8,
+    "aliases": [
+      "Bishkek"
+    ]
+  },
+  {
+    "name": "Laos",
+    "lat": 19.9,
+    "lon": 102.5,
+    "aliases": [
+      "Vientiane"
+    ]
+  },
+  {
+    "name": "Latvia",
+    "lat": 56.9,
+    "lon": 24.6,
+    "aliases": [
+      "Riga",
+      "Latvian"
+    ]
+  },
+  {
+    "name": "Lebanon",
+    "lat": 33.9,
+    "lon": 35.9,
+    "aliases": [
+      "Beirut",
+      "Lebanese"
+    ]
+  },
+  {
+    "name": "Libya",
+    "lat": 26.3,
+    "lon": 17.2,
+    "aliases": [
+      "Tripoli",
+      "Libyan"
+    ]
+  },
+  {
+    "name": "Lithuania",
+    "lat": 55.2,
+    "lon": 23.9,
+    "aliases": [
+      "Vilnius",
+      "Lithuanian"
+    ]
+  },
+  {
+    "name": "Luxembourg",
+    "lat": 49.8,
+    "lon": 6.1,
+    "aliases": []
+  },
+  {
+    "name": "Madagascar",
+    "lat": -18.8,
+    "lon": 47.0,
+    "aliases": [
+      "Antananarivo"
+    ]
+  },
+  {
+    "name": "Malawi",
+    "lat": -13.3,
+    "lon": 34.3,
+    "aliases": [
+      "Lilongwe"
+    ]
+  },
+  {
+    "name": "Malaysia",
+    "lat": 4.2,
+    "lon": 101.9,
+    "aliases": [
+      "Kuala Lumpur",
+      "Malaysian"
+    ]
+  },
+  {
+    "name": "Maldives",
+    "lat": 3.2,
+    "lon": 73.2,
+    "aliases": [
+      "Male"
+    ]
+  },
+  {
+    "name": "Mali",
+    "lat": 17.6,
+    "lon": -4.0,
+    "aliases": [
+      "Bamako",
+      "Malian"
+    ]
+  },
+  {
+    "name": "Malta",
+    "lat": 35.9,
+    "lon": 14.4,
+    "aliases": [
+      "Valletta",
+      "Maltese"
+    ]
+  },
+  {
+    "name": "Mauritania",
+    "lat": 21.0,
+    "lon": -10.9,
+    "aliases": [
+      "Nouakchott"
+    ]
+  },
+  {
+    "name": "Mexico",
+    "lat": 23.6,
+    "lon": -102.6,
+    "aliases": [
+      "Mexico City",
+      "Mexican"
+    ]
+  },
+  {
+    "name": "Moldova",
+    "lat": 47.4,
+    "lon": 28.4,
+    "aliases": [
+      "Chisinau",
+      "Moldovan"
+    ]
+  },
+  {
+    "name": "Mongolia",
+    "lat": 46.9,
+    "lon": 103.8,
+    "aliases": [
+      "Ulaanbaatar",
+      "Mongolian"
+    ]
+  },
+  {
+    "name": "Montenegro",
+    "lat": 42.7,
+    "lon": 19.4,
+    "aliases": [
+      "Podgorica"
+    ]
+  },
+  {
+    "name": "Morocco",
+    "lat": 31.8,
+    "lon": -7.1,
+    "aliases": [
+      "Rabat",
+      "Moroccan"
+    ]
+  },
+  {
+    "name": "Mozambique",
+    "lat": -18.7,
+    "lon": 35.5,
+    "aliases": [
+      "Maputo"
+    ]
+  },
+  {
+    "name": "Namibia",
+    "lat": -22.9,
+    "lon": 18.5,
+    "aliases": [
+      "Windhoek",
+      "Namibian"
+    ]
+  },
+  {
+    "name": "Nepal",
+    "lat": 28.4,
+    "lon": 84.1,
+    "aliases": [
+      "Kathmandu",
+      "Nepali"
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "lat": 52.1,
+    "lon": 5.3,
+    "aliases": [
+      "Amsterdam",
+      "Dutch",
+      "The Hague"
+    ]
+  },
+  {
+    "name": "New Zealand",
+    "lat": -40.9,
+    "lon": 174.9,
+    "aliases": [
+      "Wellington",
+      "Auckland"
+    ]
+  },
+  {
+    "name": "Nicaragua",
+    "lat": 12.9,
+    "lon": -85.2,
+    "aliases": [
+      "Managua",
+      "Nicaraguan"
+    ]
+  },
+  {
+    "name": "Niger",
+    "lat": 17.6,
+    "lon": 8.1,
+    "aliases": [
+      "Niamey"
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "lat": 9.1,
+    "lon": 8.7,
+    "aliases": [
+      "Abuja",
+      "Lagos",
+      "Nigerian"
+    ]
+  },
+  {
+    "name": "North Korea",
+    "lat": 40.3,
+    "lon": 127.5,
+    "aliases": [
+      "Pyongyang",
+      "DPRK"
+    ]
+  },
+  {
+    "name": "North Macedonia",
+    "lat": 41.6,
+    "lon": 21.7,
+    "aliases": [
+      "Skopje",
+      "Macedonian"
+    ]
+  },
+  {
+    "name": "Norway",
+    "lat": 60.5,
+    "lon": 8.5,
+    "aliases": [
+      "Oslo",
+      "Norwegian"
+    ]
+  },
+  {
+    "name": "Oman",
+    "lat": 21.5,
+    "lon": 55.9,
+    "aliases": [
+      "Muscat",
+      "Omani"
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "lat": 30.4,
+    "lon": 69.3,
+    "aliases": [
+      "Islamabad",
+      "Karachi",
+      "Lahore",
+      "Pakistani"
+    ]
+  },
+  {
+    "name": "Palestine",
+    "lat": 31.9,
+    "lon": 35.2,
+    "aliases": [
+      "Palestinian",
+      "West Bank",
+      "Ramallah"
+    ]
+  },
+  {
+    "name": "Gaza",
+    "lat": 31.5,
+    "lon": 34.45,
+    "aliases": [
+      "Gaza City",
+      "Gaza Strip",
+      "Rafah",
+      "Khan Younis"
+    ],
+    "city": true
+  },
+  {
+    "name": "Panama",
+    "lat": 8.5,
+    "lon": -80.8,
+    "aliases": [
+      "Panamanian"
+    ]
+  },
+  {
+    "name": "Papua New Guinea",
+    "lat": -6.3,
+    "lon": 143.9,
+    "aliases": [
+      "Port Moresby"
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "lat": -23.4,
+    "lon": -58.4,
+    "aliases": [
+      "Asuncion",
+      "Paraguayan"
+    ]
+  },
+  {
+    "name": "Peru",
+    "lat": -9.2,
+    "lon": -75.0,
+    "aliases": [
+      "Lima",
+      "Peruvian"
+    ]
+  },
+  {
+    "name": "Philippines",
+    "lat": 12.9,
+    "lon": 121.8,
+    "aliases": [
+      "Manila",
+      "Filipino",
+      "Philippine"
+    ]
+  },
+  {
+    "name": "Poland",
+    "lat": 51.9,
+    "lon": 19.1,
+    "aliases": [
+      "Warsaw",
+      "Polish"
+    ]
+  },
+  {
+    "name": "Portugal",
+    "lat": 39.4,
+    "lon": -8.2,
+    "aliases": [
+      "Lisbon",
+      "Portuguese"
+    ]
+  },
+  {
+    "name": "Qatar",
+    "lat": 25.4,
+    "lon": 51.2,
+    "aliases": [
+      "Doha",
+      "Qatari"
+    ]
+  },
+  {
+    "name": "Romania",
+    "lat": 45.9,
+    "lon": 25.0,
+    "aliases": [
+      "Bucharest",
+      "Romanian"
+    ]
+  },
+  {
+    "name": "Russia",
+    "lat": 61.5,
+    "lon": 105.3,
+    "aliases": [
+      "Russian"
+    ]
+  },
+  {
+    "name": "Moscow",
+    "lat": 55.76,
+    "lon": 37.62,
+    "aliases": [
+      "Kremlin"
+    ],
+    "city": true
+  },
+  {
+    "name": "St Petersburg",
+    "lat": 59.93,
+    "lon": 30.34,
+    "aliases": [
+      "Saint Petersburg"
+    ],
+    "city": true
+  },
+  {
+    "name": "Rwanda",
+    "lat": -1.9,
+    "lon": 29.9,
+    "aliases": [
+      "Kigali",
+      "Rwandan"
+    ]
+  },
+  {
+    "name": "Saudi Arabia",
+    "lat": 23.9,
+    "lon": 45.1,
+    "aliases": [
+      "Saudi",
+      "Riyadh",
+      "Jeddah",
+      "Mecca",
+      "Medina"
+    ]
+  },
+  {
+    "name": "Senegal",
+    "lat": 14.5,
+    "lon": -14.5,
+    "aliases": [
+      "Dakar",
+      "Senegalese"
+    ]
+  },
+  {
+    "name": "Serbia",
+    "lat": 44.0,
+    "lon": 21.0,
+    "aliases": [
+      "Belgrade",
+      "Serbian"
+    ]
+  },
+  {
+    "name": "Sierra Leone",
+    "lat": 8.5,
+    "lon": -11.8,
+    "aliases": [
+      "Freetown"
+    ]
+  },
+  {
+    "name": "Singapore",
+    "lat": 1.35,
+    "lon": 103.82,
+    "aliases": [
+      "Singaporean"
+    ]
+  },
+  {
+    "name": "Slovakia",
+    "lat": 48.7,
+    "lon": 19.7,
+    "aliases": [
+      "Bratislava",
+      "Slovak"
+    ]
+  },
+  {
+    "name": "Slovenia",
+    "lat": 46.2,
+    "lon": 14.9,
+    "aliases": [
+      "Ljubljana",
+      "Slovenian"
+    ]
+  },
+  {
+    "name": "Somalia",
+    "lat": 5.2,
+    "lon": 46.2,
+    "aliases": [
+      "Mogadishu",
+      "Somali"
+    ]
+  },
+  {
+    "name": "South Africa",
+    "lat": -30.6,
+    "lon": 22.9,
+    "aliases": [
+      "Johannesburg",
+      "Cape Town",
+      "Pretoria"
+    ]
+  },
+  {
+    "name": "South Korea",
+    "lat": 35.9,
+    "lon": 127.8,
+    "aliases": [
+      "Seoul",
+      "Korean"
+    ]
+  },
+  {
+    "name": "South Sudan",
+    "lat": 6.9,
+    "lon": 31.3,
+    "aliases": [
+      "Juba"
+    ]
+  },
+  {
+    "name": "Spain",
+    "lat": 40.5,
+    "lon": -3.7,
+    "aliases": [
+      "Madrid",
+      "Spanish"
+    ]
+  },
+  {
+    "name": "Barcelona",
+    "lat": 41.39,
+    "lon": 2.17,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Sri Lanka",
+    "lat": 7.9,
+    "lon": 80.8,
+    "aliases": [
+      "Colombo",
+      "Sri Lankan"
+    ]
+  },
+  {
+    "name": "Sudan",
+    "lat": 12.9,
+    "lon": 30.2,
+    "aliases": [
+      "Khartoum",
+      "Sudanese",
+      "Darfur"
+    ]
+  },
+  {
+    "name": "Sweden",
+    "lat": 60.1,
+    "lon": 18.6,
+    "aliases": [
+      "Stockholm",
+      "Swedish"
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "lat": 46.8,
+    "lon": 8.2,
+    "aliases": [
+      "Geneva",
+      "Zurich",
+      "Bern",
+      "Swiss"
+    ]
+  },
+  {
+    "name": "Syria",
+    "lat": 34.8,
+    "lon": 39.0,
+    "aliases": [
+      "Damascus",
+      "Aleppo",
+      "Syrian"
+    ]
+  },
+  {
+    "name": "Taiwan",
+    "lat": 23.7,
+    "lon": 121.0,
+    "aliases": [
+      "Taipei",
+      "Taiwanese"
+    ]
+  },
+  {
+    "name": "Tajikistan",
+    "lat": 38.9,
+    "lon": 71.3,
+    "aliases": [
+      "Dushanbe"
+    ]
+  },
+  {
+    "name": "Tanzania",
+    "lat": -6.4,
+    "lon": 34.9,
+    "aliases": [
+      "Dar es Salaam",
+      "Tanzanian"
+    ]
+  },
+  {
+    "name": "Thailand",
+    "lat": 15.9,
+    "lon": 100.99,
+    "aliases": [
+      "Bangkok",
+      "Thai"
+    ]
+  },
+  {
+    "name": "Tunisia",
+    "lat": 33.9,
+    "lon": 9.5,
+    "aliases": [
+      "Tunis",
+      "Tunisian"
+    ]
+  },
+  {
+    "name": "Turkey",
+    "lat": 38.96,
+    "lon": 35.2,
+    "aliases": [
+      "Ankara",
+      "Istanbul",
+      "Turkish",
+      "Türkiye"
+    ]
+  },
+  {
+    "name": "Turkmenistan",
+    "lat": 38.97,
+    "lon": 59.6,
+    "aliases": [
+      "Ashgabat"
+    ]
+  },
+  {
+    "name": "Uganda",
+    "lat": 1.4,
+    "lon": 32.3,
+    "aliases": [
+      "Kampala",
+      "Ugandan"
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "lat": 48.4,
+    "lon": 31.2,
+    "aliases": [
+      "Ukrainian"
+    ]
+  },
+  {
+    "name": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.52,
+    "aliases": [
+      "Kiev"
+    ],
+    "city": true
+  },
+  {
+    "name": "Kharkiv",
+    "lat": 49.99,
+    "lon": 36.23,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Odesa",
+    "lat": 46.48,
+    "lon": 30.73,
+    "aliases": [
+      "Odessa"
+    ],
+    "city": true
+  },
+  {
+    "name": "UAE",
+    "lat": 23.4,
+    "lon": 53.8,
+    "aliases": [
+      "United Arab Emirates",
+      "Dubai",
+      "Abu Dhabi",
+      "Emirati"
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "lat": 55.4,
+    "lon": -3.4,
+    "aliases": [
+      "UK",
+      "Britain",
+      "British",
+      "England",
+      "Scotland",
+      "Wales",
+      "Northern Ireland"
+    ]
+  },
+  {
+    "name": "London",
+    "lat": 51.51,
+    "lon": -0.13,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "United States",
+    "lat": 37.1,
+    "lon": -95.7,
+    "aliases": [
+      "US",
+      "U.S.",
+      "USA",
+      "America",
+      "American",
+      "White House",
+      "Pentagon"
+    ]
+  },
+  {
+    "name": "Washington",
+    "lat": 38.91,
+    "lon": -77.04,
+    "aliases": [
+      "Washington DC",
+      "Washington, DC"
+    ],
+    "city": true
+  },
+  {
+    "name": "New York",
+    "lat": 40.71,
+    "lon": -74.01,
+    "aliases": [
+      "NYC",
+      "Manhattan"
+    ],
+    "city": true
+  },
+  {
+    "name": "Los Angeles",
+    "lat": 34.05,
+    "lon": -118.24,
+    "aliases": [
+      "LA",
+      "Hollywood"
+    ],
+    "city": true
+  },
+  {
+    "name": "San Francisco",
+    "lat": 37.77,
+    "lon": -122.42,
+    "aliases": [
+      "Silicon Valley"
+    ],
+    "city": true
+  },
+  {
+    "name": "Chicago",
+    "lat": 41.88,
+    "lon": -87.63,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Texas",
+    "lat": 31.0,
+    "lon": -100.0,
+    "aliases": [
+      "Houston",
+      "Dallas",
+      "Austin"
+    ],
+    "city": true
+  },
+  {
+    "name": "Florida",
+    "lat": 27.7,
+    "lon": -81.5,
+    "aliases": [
+      "Miami"
+    ],
+    "city": true
+  },
+  {
+    "name": "California",
+    "lat": 36.78,
+    "lon": -119.42,
+    "aliases": [],
+    "city": true
+  },
+  {
+    "name": "Uruguay",
+    "lat": -32.5,
+    "lon": -55.8,
+    "aliases": [
+      "Montevideo",
+      "Uruguayan"
+    ]
+  },
+  {
+    "name": "Uzbekistan",
+    "lat": 41.4,
+    "lon": 64.6,
+    "aliases": [
+      "Tashkent",
+      "Uzbek"
+    ]
+  },
+  {
+    "name": "Vatican",
+    "lat": 41.9,
+    "lon": 12.45,
+    "aliases": [
+      "Pope",
+      "Holy See"
+    ],
+    "city": true
+  },
+  {
+    "name": "Venezuela",
+    "lat": 6.4,
+    "lon": -66.6,
+    "aliases": [
+      "Caracas",
+      "Venezuelan"
+    ]
+  },
+  {
+    "name": "Vietnam",
+    "lat": 14.1,
+    "lon": 108.3,
+    "aliases": [
+      "Hanoi",
+      "Ho Chi Minh City",
+      "Vietnamese"
+    ]
+  },
+  {
+    "name": "Yemen",
+    "lat": 15.6,
+    "lon": 48.5,
+    "aliases": [
+      "Sanaa",
+      "Houthi",
+      "Yemeni",
+      "Aden"
+    ]
+  },
+  {
+    "name": "Zambia",
+    "lat": -13.1,
+    "lon": 27.8,
+    "aliases": [
+      "Lusaka",
+      "Zambian"
+    ]
+  },
+  {
+    "name": "Zimbabwe",
+    "lat": -19.0,
+    "lon": 29.2,
+    "aliases": [
+      "Harare",
+      "Zimbabwean"
+    ]
+  }
+]

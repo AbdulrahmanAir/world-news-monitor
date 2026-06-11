@@ -1,0 +1,1 @@
+# No dependencies — Python stdlib only. File exists for Render's Python runtime.

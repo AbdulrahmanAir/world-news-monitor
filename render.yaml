@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: world-news-monitor
+    runtime: python
+    plan: free
+    buildCommand: "echo 'no build needed - stdlib only'"
+    startCommand: python server.py
+    envVars:
+      - key: HOST
+        value: 0.0.0.0
+      - key: PYTHON_VERSION
+        value: 3.12.0
